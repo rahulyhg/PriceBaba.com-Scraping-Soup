@@ -22,15 +22,9 @@ def retrieval(input):
 
     range_category = [48,31,10,3,21,13]
     count = 0
-<<<<<<< HEAD
     for i in range(0,range_category[input]):
         x = base1 + str(category[input]) + base2 + str(new_category[input]) + base3 + str(i)
         item = {}
-=======
-    for i in range(0,48:
-        x = base+str(i)
-        mobile = {}
->>>>>>> origin/master
         page = requests.get(x)
         souped = BeautifulSoup(page.text,"lxml")
 
@@ -48,7 +42,6 @@ def retrieval(input):
                 print "%s costs%s" %(name, price)
                 count = count + 1
 
-<<<<<<< HEAD
     print "\nThe total number of items listed = %d \n\n " %(count)
 
 def main():
@@ -92,7 +85,3 @@ def main():
 
 
 main()
-=======
-    print "The total number of phones = %d" %(count)
-main()
->>>>>>> origin/master
