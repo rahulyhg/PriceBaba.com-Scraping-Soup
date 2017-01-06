@@ -6,7 +6,7 @@ def main():
 
     base = "http://pricebaba.com/mobile/pricelist/android-phones-price-list?page="
     count = 0
-    for i in range(0,49):
+    for i in range(0,48:
         x = base+str(i)
         mobile = {}
         page = requests.get(x)
