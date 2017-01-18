@@ -31,24 +31,26 @@ Check out the latest development version anonymously with::
 To install libraries, run::
 
 	$ pip install requests  
-  $ pip install beautifulsoup 
-  $ pip install copy 
-  $ pip install sqlite3 
-  $ pip install urllib2
+  	$ pip install beautifulsoup 
+	$ pip install copy 
+	$ pip install sqlite3 
+	$ pip install urllib2
 
 -------
 #### Developer/Company
 -------
+
 * Homepage: www.about.me/sameerkumar18
 * e-mail: sam@sameerkumar.website
 * Twitter: [@sameer_kumar18](https://twitter.com/sameer_kumar18 "sameer_kumar18 on twitter")
 * https://www.linkedin.com/in/sameer-kumar18
+
 -------
 #### Development
 -------
-
 Want to contribute? Great!
 You may create an issue or just push code, adding whatsoever features you feel like. [You can even tweet directly to me :) ]
+
 -------
 License
 -------
