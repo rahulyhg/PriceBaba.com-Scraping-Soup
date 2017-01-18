@@ -40,7 +40,7 @@ To install libraries, run::
 #### Developer/Company
 -------
 
-* Homepage: www.about.me/sameerkumar18
+* Homepage: www.about.me/sameer.kumar18
 * e-mail: sam@sameerkumar.website
 * Twitter: [@sameer_kumar18](https://twitter.com/sameer_kumar18 "sameer_kumar18 on twitter")
 * https://www.linkedin.com/in/sameer-kumar18
